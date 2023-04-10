@@ -16,7 +16,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 
 - HTML
 - CSS
-- Vanilla JS - ES6
+- JS 
 - 
 
 ## What it does
@@ -32,7 +32,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 
 ## Some cool stuff
 
-Usually, people tend to run to CSS Frameworks to develop and style tabs and switching tabs. But here's a pretty simple, basic way of creating switchable tab content using Vanilla JS:
+Usually, people tend to run to CSS Frameworks to develop and style tabs and switching tabs. But here's a pretty simple, basic way of creating switchable tab content using  JS:
 
 ```javascript
 const tabItems = document.querySelectorAll(".tab-item");
